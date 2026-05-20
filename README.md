@@ -6,13 +6,6 @@ RetailPulse is an end-to-end retail analytics project that transforms raw Supers
 
 Retail teams often have sales data but lack a clear view of which regions, products, customers, and discount strategies are actually driving profitable growth. This project solves that problem by building a repeatable analytics workflow that cleans retail transaction data, tests key business hypotheses, and prepares executive-ready outputs for dashboarding and decision support.
 
-## Key Findings
-
-- [FINDING]
-- [FINDING]
-- [FINDING]
-- [FINDING]
-- [FINDING]
 
 ## Tech Stack
 
